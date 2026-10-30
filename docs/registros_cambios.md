@@ -17,6 +17,12 @@ Versión v1.0
 Descripción Creación de la línea base inicial del proyecto
 Autor Federico Reinoso
 
+ID C02
+Fecha 30/10/2026
+Version v1.1
+Descripcion Se incorporó validación del campo teléfono.
+Autor Federico Reinoso
+
 # Tags del repositorio
 
 Tag Descripción
